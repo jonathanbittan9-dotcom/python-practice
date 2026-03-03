@@ -1,3 +1,4 @@
+total_fuel=0
 sum=0
 sum_total=0
 for drivers in range(30):   
